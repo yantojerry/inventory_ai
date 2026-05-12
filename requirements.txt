@@ -1,0 +1,2 @@
+# Install backend dependencies from the repository root.
+-r backend/requirements.txt
